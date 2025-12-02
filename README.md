@@ -1,3 +1,3 @@
-# teste
+# Modeles HTML CSS 01
 
-teste sa vale faire
+ce dossier contient des modeles HTML CSS réutilisable
